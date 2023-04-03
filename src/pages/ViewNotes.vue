@@ -1,5 +1,5 @@
 <template>
   <div class="notes">
-    <h1>Pig Piss</h1>
+    <h1>Notes</h1>
   </div>
 </template>
